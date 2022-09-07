@@ -1,0 +1,21 @@
+meet.google.com/vmq-ecey-hfc
+
+API key (v auth)
+937ddba2ac0150f5347ab618a9aef3b0
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=937ddba2ac0150f5347ab618a9aef3b0
+
+
+api......
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5MzdkZGJhMmFjMDE1MGY1MzQ3YWI2MThhOWFlZjNiMCIsInN1YiI6IjYyZWQzMjBlMWJmMjY2MDA1ZGE1YWFmYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.DoyQKu6Tm5DCV5S-COhdSzA6lPtaDsWZuSX0IbvSr70
+API Read Access Token (v4 auth)
+
+
+
+useEffect(() =>{
+
+
+} , [])
+
+ 
